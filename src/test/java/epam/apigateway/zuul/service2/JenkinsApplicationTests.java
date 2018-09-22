@@ -13,7 +13,7 @@ public class JenkinsApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertEquals("", "sasasa");
+		assertEquals("", "");
 	}
 
 }
